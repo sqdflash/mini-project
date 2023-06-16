@@ -1,0 +1,18 @@
+.divInfo{
+    background: #f5f6fd;
+    border: 3.5px solid #8ab72d;
+    border-radius: 5px;
+    width: 100%;
+}
+.divMain{
+    background: #f5f6fd;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    border: 3px solid #8ab72d;
+    border-radius: 5px;
+}
+.divCom{
+    width: 24.25%;
+    border: 1px solid #523996;
+}

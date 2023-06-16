@@ -1,0 +1,14 @@
+.divMain{
+    display: flex;
+    flex-wrap: wrap;
+    background: #adb3f3;
+    border: 1px solid #231f1f;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: Calibri;
+    height: 200px;
+}
+.div{
+    width: 50%;
+    color: #3aa9bb;
+}
